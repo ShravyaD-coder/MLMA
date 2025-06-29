@@ -56,6 +56,8 @@ Early detection of retinal diseases is crucial for preventing vision impairment 
 - Grad-CAM visualizations showed interpretable patterns in most classes, highlighting key anatomical regions
 - Confusion matrix revealed strengths in detecting cataract and pathological myopia but challenges with age-related macular degeneration and diabetes
 
+### Generated GradCAM for InceptionV3
+![GradCAM Example](output.png)
 ---
 
 ## Conclusions

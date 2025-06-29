@@ -120,7 +120,7 @@ Refer to the accompanying Jupyter notebooks for:
 
 ## Acknowledgments
 
-The project is a part of the final course requirement for Machine Learning for Medical Applications at Johns Hopkins University. Thanks to the original dataset providers and my team members Akshay Bhuvaneshwari Ramakrishnan, Alex Zhu, Jianzhi Shen and Liora Dsilva for their contrubution to the project.
+The project is a part of the final course requirement for Machine Learning for Medical Applications (Instructor: Prof. Laureano Moro Velazquez) at Johns Hopkins University. Thanks to the original dataset providers and my team members Akshay Bhuvaneshwari Ramakrishnan, Alex Zhu, Jianzhi Shen and Liora Dsilva for their contrubution to the project.
 
 ---
 

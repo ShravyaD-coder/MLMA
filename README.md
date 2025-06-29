@@ -57,7 +57,7 @@ Early detection of retinal diseases is crucial for preventing vision impairment 
 - Confusion matrix revealed strengths in detecting cataract and pathological myopia but challenges with age-related macular degeneration and diabetes
 
 ### Generated GradCAM for InceptionV3
-![GradCAM Example](output.png)
+![GradCAM Example](gradcam.png)
 ---
 
 ## Conclusions
